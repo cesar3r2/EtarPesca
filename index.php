@@ -43,7 +43,7 @@
 	</div>
 	<!--footer starts here-->
 	<div id="footer">
-		<p>&copy; 2012 <strong>ETAR de Pesca</strong> | Escuela Técnica Agropercuaria Robinsoniana de Pesca</p>
+		<p>&copy; 2015 <strong>ETAR de Pesca</strong> | Escuela Técnica Agropercuaria Robinsoniana de Pesca</p>
 	</div>	
 <!-- wrap ends here -->
 </div>
