@@ -12,7 +12,7 @@
 	$config_titulo_paginas      = 'ETAR';
 	// VARIABLES DEL SISTEMA
 	$config_host                = $servidor;
-	$config_absolute_path       = 'C:/AppServ/www/etar';
+	$config_absolute_path       = 'C:/AppServ/www/etarpesca/EtarPesca';
 	$config_sitio               = 'http://'.$servidor.'/seguridad/';
 	$config_raiz_general        = 'http://'.$servidor.'/';
 ?>
